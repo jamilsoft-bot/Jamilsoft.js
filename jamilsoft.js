@@ -1,13 +1,12 @@
 /* Jamilsoft.js 1.0 Jan 2020 by Muhammad Jamil 
-Name      :    Jamilsoft.js
-Description:   Javascript Library
-Author    :    Muhammad Jamil
-website   :    www.jamilsoft.com.ng
-email     :    myakububauchi@gmail.com
-
-
-
-
+Name      :         Jamilsoft.js
+Description:        A small but powerful  free and open source Javascript Library design to simplified web development project 
+Author    :         Muhammad Jamil
+website   :         www.jamilsoft.com.ng
+email     :         myakububauchi@gmail.com
+Licenses  :         GPL V2
+Initial Release:    19th November, 2019
+version   :         1.0
 
 */
 
